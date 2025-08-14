@@ -4,7 +4,7 @@
 
 <p align="center">
   A passionate student developer on a mission to automate the world! 🤖<br>
-  I'm all about turning big ideas into smart, efficient solutions using AI, RPA, and Computer Vision.
+  I'm all about turning big ideas into smart, efficient solutions using AI, ML and Computer Vision.
 </p>
 
 <div align="center">
@@ -24,7 +24,7 @@
 ### ✨ My Coolest Creations & Triumphs
 
 * **1st Place** – **Innogeeks 3.0 National Hackathon** 🥇
-    * Built a cutting-edge **AI/ML & IoT-based Drowsiness Detection System** that won me ₹70,000!
+    * Built a cutting-edge **AI/ML & IoT-based Drowsiness Detection System** !
 * **2nd Place** – **Hackowasp 7.0 Ideathon** 🥈
     * Created **"Ghar Ghar Gyaan,"** an AI-powered legal & health rights advisor that makes important info accessible to everyone.
 * **3rd Place** – **Hack-O-Mania’25** 🥉
