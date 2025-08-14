@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://harshitb206.github.io/assets/banner_vibrant.png" alt="Harshit Bhatia's Vibrant Profile Banner" width="100%"/>
-</div>
+
 
 <h1 align="center">Hey there! I'm Harshit Bhatia 👋</h1>
 
