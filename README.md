@@ -59,7 +59,7 @@
 ### 🎓 My Journey So Far
 
 * **B.Tech in Computer Science and Engineering** | Amity University, Punjab
-* **Core Team Executive** | Technometer Club, AUP
+* **Co-Secretary** | Technometer Club, AUP
     * Helped plan and execute tech events and collaborated on cool student projects!
 
 ---
